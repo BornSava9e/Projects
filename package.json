@@ -13,9 +13,9 @@
   "author": "Ghufran, Paras, Tarun",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/21tarun/bookManagement/issues"
+    "url": "https://github.com/BornSava9e/Projects.git"
   },
-  "homepage": "https://github.com/21tarun/bookManagement#readme",
+  "homepage": "https://github.com/BornSava9e/Projects.git",
   "dependencies": {
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.0",
